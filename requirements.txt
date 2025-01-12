@@ -1,0 +1,6 @@
+python-dotenv
+deepgram-sdk
+livekit-plugins-openai
+google-generativeai
+tenacity
+sqlalchemy
